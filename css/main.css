@@ -157,7 +157,8 @@ h1,
 h2,
 h3 {
   margin: 0%;
-  font-weight: 400; }
+  font-weight: 400;
+  text-transform: capitalize; }
   h1.lg-header,
   h2.lg-header,
   h3.lg-header {
@@ -299,6 +300,8 @@ footer {
       color: black; }
       .boxes div:hover span {
         color: black; }
+
+   
 
 @media screen and (min-width: 1171px) {
   .projects {
